@@ -1,16 +1,46 @@
 {
   "title": "Majo Taisen",
-  "description": "Joan of Arc, the hero who saved France, was sentenced to be burned at the stake. But at the moment of her death, a demon sent her to another world. There, she found 32 women from across history, known as \"witches\".\n\n",
-  "artist": "",
-  "author": "",
-  "cover": "https://static.wikia.nocookie.net/majo-taisen/images/4/4e/Volume_15.png/revision/latest?cb=20260302224330",
+  "description": "Joan of Arc, the hero who saved France, was sentenced to be burned at the stake. But at the moment of her death, a demon sent her to another world. There, she found 32 women from across history, known as \"witches\".",
+  "artist": "Shiozuka Makoto",
+  "author": "Kawamoto Homura",
+  "cover": "https://cdn.imgchest.com/files/cb145a57c47c.webp",
   "chapters": {
-    "1": {
-      "title": "Chapter 66",
+    "66": {
+      "title": "The Bewitching Angel",
       "volume": "",
-      "last_updated": "1777591913",
+      "last_updated": "1777593280",
       "groups": {
-        "Illiterate Scans": []
+        "": [
+          "https://cdn.imgchest.com/files/cafa3532c742.png",
+          "https://cdn.imgchest.com/files/3dfe16116477.png",
+          "https://cdn.imgchest.com/files/56c2c12e56a3.png",
+          "https://cdn.imgchest.com/files/c9f81bf7f463.jpg",
+          "https://cdn.imgchest.com/files/a19f516d9bf6.png",
+          "https://cdn.imgchest.com/files/680d7b778091.png",
+          "https://cdn.imgchest.com/files/ae1b39602257.jpg",
+          "https://cdn.imgchest.com/files/7aba65ca69c4.jpg",
+          "https://cdn.imgchest.com/files/a83bf6ca3c81.png",
+          "https://cdn.imgchest.com/files/e5bdea620acb.png",
+          "https://cdn.imgchest.com/files/00f987726d23.png",
+          "https://cdn.imgchest.com/files/675a78bd3104.png",
+          "https://cdn.imgchest.com/files/cd04e58bdd1c.png",
+          "https://cdn.imgchest.com/files/91b9597ee366.png",
+          "https://cdn.imgchest.com/files/b7a36a77aa8e.png",
+          "https://cdn.imgchest.com/files/a9a5a55fd430.png",
+          "https://cdn.imgchest.com/files/817570f66f3b.png",
+          "https://cdn.imgchest.com/files/cd01d567ccab.png",
+          "https://cdn.imgchest.com/files/947538eff704.png",
+          "https://cdn.imgchest.com/files/f7e706573499.png",
+          "https://cdn.imgchest.com/files/24f3a178404e.png",
+          "https://cdn.imgchest.com/files/ce1f524276be.png",
+          "https://cdn.imgchest.com/files/2082a23c212d.png",
+          "https://cdn.imgchest.com/files/0a5744301137.png",
+          "https://cdn.imgchest.com/files/e7205a4d9fdb.png",
+          "https://cdn.imgchest.com/files/9895cde36eda.png",
+          "https://cdn.imgchest.com/files/ce7381bb16ee.png",
+          "https://cdn.imgchest.com/files/b6d4ddb8a968.png",
+          "https://cdn.imgchest.com/files/67cd3f220d11.png"
+        ]
       }
     }
   }
